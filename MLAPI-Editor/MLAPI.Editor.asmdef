@@ -1,9 +1,11 @@
 {
-    "name": "MLAPI",
+    "name": "MLAPI.Editor",
     "references": [
-        "Steamworks"
+        "MLAPI"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": true,
     "overrideReferences": false,
